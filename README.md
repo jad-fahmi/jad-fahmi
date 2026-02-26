@@ -11,7 +11,7 @@
 
 ## About Me
 
-Hey, I'm Jad — a cybersecurity student with a deep interest in offensive security and penetration testing. I enjoy finding vulnerabilities, understanding attack surfaces, and building tools that help explore them.
+Hey, I'm Jad, a cybersecurity student with a deep interest in offensive security and penetration testing. I enjoy finding vulnerabilities, understanding attack surfaces, and building tools that help explore them.
 
 -  Working toward a career in **penetration testing**
 -  Exploring web security, CTFs, and vulnerability research
