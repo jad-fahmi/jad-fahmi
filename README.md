@@ -34,7 +34,7 @@ Future pen tester in the making.
 
 ---
 
-### Random Hacker Quote
+### Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
