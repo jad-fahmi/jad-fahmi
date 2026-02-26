@@ -13,10 +13,10 @@
 
 Hey, I'm Jad — a cybersecurity student with a deep interest in offensive security and penetration testing. I enjoy finding vulnerabilities, understanding attack surfaces, and building tools that help explore them.
 
-- 🎯 Working toward a career in **penetration testing**
-- 🔐 Exploring web security, CTFs, and vulnerability research
-- 🛠️ Currently building **VunLab Web** — a hands-on vulnerability lab environment
-- 📍 Always learning, always breaking (things, not laws)
+-  Working toward a career in **penetration testing**
+-  Exploring web security, CTFs, and vulnerability research
+-  Currently building **VunLab Web** a hands-on vulnerability lab environment
+-  Always learning, always breaking (things, not laws)
 
 ---
 
@@ -24,7 +24,7 @@ Hey, I'm Jad — a cybersecurity student with a deep interest in offensive secur
 
 | Project | Description |
 |--------|-------------|
-| 🔬 **[vulnlab-web](https://github.com/jad-fahmi/vulnlab-web)** | A web-based vulnerable lab for practicing and studying common web vulnerabilities |
+|  **[vulnlab-web](https://github.com/jad-fahmi/vulnlab-web)** | A web-based vulnerable lab for practicing and studying common web vulnerabilities |
 
 ---
 
@@ -58,5 +58,5 @@ Hey, I'm Jad — a cybersecurity student with a deep interest in offensive secur
 ---
 
 <div align="center">
-<sub>⚡ "The quieter you become, the more you are able to hear." — Kali Linux</sub>
+<sub> "The quieter you become, the more you are able to hear." — Kali Linux</sub>
 </div>
