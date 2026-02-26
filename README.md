@@ -38,13 +38,16 @@ Hey, I'm Jad — a cybersecurity student with a deep interest in offensive secur
 
 ---
 
-## GitHub Stats
+## Currently Learning & Exploring
 
 <div align="center">
 
-![Jad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jad-fahmi&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jad-fahmi&layout=compact&theme=default&hide_border=true)
+![Web Security](https://img.shields.io/badge/Web_Security-Studying-black?style=flat-square)
+![Penetration Testing](https://img.shields.io/badge/Pen_Testing-In_Progress-black?style=flat-square)
+![CTFs](https://img.shields.io/badge/CTFs-Practicing-black?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-Daily_Driver-black?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Scripting-black?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Learning-black?style=flat-square)
 
 </div>
 
