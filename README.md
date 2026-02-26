@@ -1,62 +1,41 @@
-
-# Jad Fahmi
-
-**Cybersecurity Student · Future Pen Tester**
-
-*Breaking things (ethically) to understand how to protect them.*
-
-</div>
+# 💫 About Me:
+Hey! I'm Jad — a cybersecurity student with a passion for offensive security and penetration testing.<br><br>
+My GitHub contains projects and labs focused on web vulnerabilities, security research, and hands-on hacking practice.<br><br>
+🔐 Future pen tester in the making.
 
 ---
 
-## About Me
-
-Hey, I'm Jad, a cybersecurity student with a deep interest in offensive security and penetration testing. I enjoy finding vulnerabilities, understanding attack surfaces, and building tools that help explore them.
-
--  Working toward a career in **penetration testing**
--  Exploring web security, CTFs, and vulnerability research
--  Currently building **VunLab Web** a hands-on vulnerability lab environment
--  Always learning, always breaking (things, not laws)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadfahmi/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/jadfahmii)
 
 ---
 
-## Current Projects
-
-| Project | Description |
-|--------|-------------|
-|  **[vulnlab-web](https://github.com/jad-fahmi/vulnlab-web)** | A web-based vulnerable lab for practicing and studying common web vulnerabilities |
-
----
-
-## Currently Learning & Exploring
-
-<div align="center">
-
-![Web Security](https://img.shields.io/badge/Web_Security-Studying-black?style=flat-square)
-![Penetration Testing](https://img.shields.io/badge/Pen_Testing-In_Progress-black?style=flat-square)
-![CTFs](https://img.shields.io/badge/CTFs-Practicing-black?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-Daily_Driver-black?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Scripting-black?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Learning-black?style=flat-square)
-
-</div>
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
-## Connect
+## 🔬 Current Projects:
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jad_Fahmi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadfahmi/)
-&nbsp;
-[![X / Twitter](https://img.shields.io/badge/X-@jadfahmii-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jadfahmii)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-jad--fahmi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jad-fahmi)
-
-</div>
+**[vunlab-web](https://github.com/jad-fahmi/vunlab-web)** — A hands-on web vulnerability lab for studying and practicing common web security flaws.
 
 ---
 
-<div align="center">
-<sub> "The quieter you become, the more you are able to hear." — Kali Linux</sub>
-</div>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jad-fahmi&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jad-fahmi&theme=prussian&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jad-fahmi&theme=prussian&hide_border=true&layout=compact)
+
+---
+
+### ✍️ Random Hacker Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jad-fahmi&icon=0&color=0)](https://visitcount.itsvg.in)
