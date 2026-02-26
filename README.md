@@ -1,5 +1,5 @@
 # About Me:
-Hey! I'm Jad — a cybersecurity student with a passion for offensive security and penetration testing.<br><br>
+Hey! I'm Jad, a cybersecurity student with a passion for offensive security and penetration testing.<br><br>
 My GitHub contains projects and labs focused on web vulnerabilities, security research, and hands-on hacking practice.<br><br>
 Future pen tester in the making.
 
@@ -23,7 +23,7 @@ Future pen tester in the making.
 
 ## Current Projects:
 
-**[vunlab-web](https://github.com/jad-fahmi/vunlab-web)** — A hands-on web vulnerability lab for studying and practicing common web security flaws.
+**[vunlab-web](https://github.com/jad-fahmi/vunlab-web)**   A hands-on web vulnerability lab for studying and practicing common web security flaws.
 
 ---
 
