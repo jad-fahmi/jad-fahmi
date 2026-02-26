@@ -24,7 +24,7 @@ Hey, I'm Jad — a cybersecurity student with a deep interest in offensive secur
 
 | Project | Description |
 |--------|-------------|
-| 🔬 **[vunlab-web](https://github.com/jad-fahmi/vunlab-web)** | A web-based vulnerable lab for practicing and studying common web vulnerabilities |
+| 🔬 **[vulnlab-web](https://github.com/jad-fahmi/vulnlab-web)** | A web-based vulnerable lab for practicing and studying common web vulnerabilities |
 
 ---
 
